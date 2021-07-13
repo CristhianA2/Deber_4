@@ -9,7 +9,10 @@ Reconocer y aplicar los diferentes metodos para la resolucion de los ejercicios 
 
 °Reconocer qué elementos y ramas en un circuito dado están conectados en paralelo y cuáles en serie, calcular la resistencia y conductancia total de uja red de resistencias en paralelo.
 # MARCO TEORICO
-
+![A](https://user-images.githubusercontent.com/85193519/125484691-b60560ea-3db3-4afd-b280-12adb5962f5d.jpg)
+![B](https://user-images.githubusercontent.com/85193519/125484708-133e4b00-309a-4d8c-8acb-186fcc953aa2.jpg)
+![C](https://user-images.githubusercontent.com/85193519/125484719-12ec3aa7-159d-46f9-9619-8161c49c01b9.jpg)
+![D](https://user-images.githubusercontent.com/85193519/125488893-f413a1e0-e697-4d50-81c8-96e52fc50519.jpg)
 # RESOLUCION DE LOS EJERCICIOS PROPUESTOS
 # Capitulo 7
 ![16](https://user-images.githubusercontent.com/85193519/125478188-97336e64-47b4-4b3c-afd1-753e397233bd.jpg)
@@ -55,8 +58,8 @@ Reconocer y aplicar los diferentes metodos para la resolucion de los ejercicios 
 ![34](https://user-images.githubusercontent.com/85193519/125480976-1c406d4d-f521-467b-9279-3eb4defc38f8.jpg)
 ![35](https://user-images.githubusercontent.com/85193519/125480989-8f87254e-b5da-430d-a763-800c5f2e397b.jpg)
 # VIDEO
-
+https://www.youtube.com/watch?v=MD9kqwImTWs
 # CONCLUSIONES
-
+El conocimiento básico de las leyes de Kirchhoff constituye un aparataje fundamental tanto como para poder permitir calibra las sensibilidad de los aparatos de mediciones extrapolándolo a poder realizar operaciones más complejas  como la simplificación de circuitos y más precisión para determinar los efectos de carga  de los mismos.
 # BIBLIOGRAFIA
 Robbins, A. H. (2008). Análisis de Circuitos Teoria y Practica. Santa Fe-Mexico: Cengage Learning.
